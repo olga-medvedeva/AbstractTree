@@ -2,7 +2,7 @@
 Custom tree project with vertical and horizontal traversal.
 
 
-The tree has the following structure if filled with sequential numbers (as shown in the Solution.class):
+The tree has the following structure if filled with sequential numbers from 1 to 16 (as shown in the Solution.class):
 
 ![123](https://user-images.githubusercontent.com/90202470/132716427-9fcdf627-01ae-4d2d-98ac-bc63f2c5acbe.png)
 
